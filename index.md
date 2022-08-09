@@ -15,4 +15,4 @@ class Person:
   age: int
 ```
 
-### Learn [Rust Programming Language]([rust-lang.org](https://www.rust-lang.org/))
+### Learn [Rust Programming Language](https://www.rust-lang.org/)
